@@ -19,4 +19,4 @@ RUN npm run dev
 
 EXPOSE 3000
 
-CMD ["npm", "dev"]
+CMD ["npm", "run", "dev"]
